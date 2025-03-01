@@ -1,0 +1,7 @@
+whitelist = {
+    "7933015637": {"wltype": "PRO", "LoadUI": "true"},
+    "4687187344": {"wltype": "PRO", "LoadUI": "true"},
+    "7430538471": {"wltype": "PRO", "LoadUI": "true"},
+    "7826021377": {"wltype": "PRO", "LoadUI": "true"},
+    "30123567": {"wltype": "PRO", "LoadUI": "true"},	
+}
