@@ -1,4 +1,4 @@
-return {
+{
 	["7933015637"] = { wltype = "PRO", LoadUI = "true" },
 	["4687187344"] = { wltype = "PRO", LoadUI = "true" },
 	["7430538471"] = { wltype = "PRO", LoadUI = "true" },
