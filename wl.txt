@@ -26,5 +26,9 @@
   "7826021377": {
     "wltype": "PRO",
     "LoadUI": true
+  },
+  "5452762365": {
+    "wltype": "Standard",
+    "LoadUI": true
   }
 }
