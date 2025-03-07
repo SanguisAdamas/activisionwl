@@ -33,7 +33,7 @@
   },
    },
   "7916454912": {
-    "wltype": "PRO",
+    "wltype": "Medium",
     "LoadUI": true
   }
 }
