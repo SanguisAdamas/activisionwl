@@ -30,5 +30,10 @@
   "5452762365": {
     "wltype": "Standard",
     "LoadUI": true
+  },
+   },
+  "7916454912": {
+    "wltype": "PRO",
+    "LoadUI": true
   }
 }
