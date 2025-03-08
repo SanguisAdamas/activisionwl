@@ -31,7 +31,6 @@
     "wltype": "Standard",
     "LoadUI": true
   },
-   },
   "7916454912": {
     "wltype": "Medium",
     "LoadUI": true
