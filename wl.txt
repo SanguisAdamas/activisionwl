@@ -34,5 +34,9 @@
   "7916454912": {
     "wltype": "Medium",
     "LoadUI": true
-  }
+  },
+  "6044644780": {
+    "wltype": "Medium",
+    "LoadUI": true
+  },
 }
